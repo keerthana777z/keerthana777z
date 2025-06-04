@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">hey there! <br><br>i'm intrested in Datascience and ML</h2>
+<h2 align="left">hey there! <br><br>i'm intrested in AI & Datascience </h2>
 
 ###
 
