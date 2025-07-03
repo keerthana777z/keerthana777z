@@ -10,15 +10,25 @@
 </div>
 
 
+
 ## 🐝 About Me
 
-Hey there!  I'm  **AR Keerthana**
+```js
+// 💻 Keerthana's Code Space
 
-ComputerScience Engineering Student @ VIT Chennai 
+const Keerthana = {
+  name: "AR Keerthana",
+  role: "CS Engineering Student @ VIT Chennai",
+  passions: ["AI & ML ", "Data Science ", "Web Development ", "Data Analytics "],
+  vibe: "Build 💡 | Debug 🔍 | Deploy 🚀 | Repeat 🔁",
+  quote: "Code is my playground, and logic is my game.🎯"
+};
 
- “Code is my playground, and logic is my game.”
+console.log("Welcome to my README! Let’s build something cool together ✨");
+```
 
----
+
+
 
 ## 💻 Tech Stack
 
