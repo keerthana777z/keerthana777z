@@ -37,9 +37,19 @@ ComputerScience Engineering Student @ VIT Chennai
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=keerthana777z&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com?user=keerthana777z&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana777z&theme=tokyonight&hide_border=false&layout=compact)
+<div align="center">
+
+<!-- Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=keerthana777z&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+
+<!-- Streak Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=keerthana777z&theme=tokyonight&hide_border=false" width="49%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana777z&theme=tokyonight&hide_border=false&layout=compact" width="49%" />
+
+</div>
+
 
 ---
 
