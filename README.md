@@ -6,11 +6,11 @@
 
 ## 🧠 About Me
 
-Hey there! I'm **Keerthana AR**
+Hey there!  I'm **Keerthana AR**
 
-ComputerScience engineering Student @ VIT Chennai 
+ComputerScience Engineering Student @ VIT Chennai 
 
- *“Code is my playground, and logic is my game.”
+ “Code is my playground, and logic is my game.”
 
 ---
 
