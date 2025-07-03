@@ -46,7 +46,7 @@ ComputerScience Engineering Student @ VIT Chennai
 <img src="https://github-readme-streak-stats.herokuapp.com?user=keerthana777z&theme=tokyonight&hide_border=false" width="49%" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana777z&theme=tokyonight&hide_border=false&layout=compact" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana777z&theme=tokyonight&hide_border=false&layout=compact" width="40%" />
 
 </div>
 
