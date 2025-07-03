@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hi+I'm+Keerthana!;AI+%7C+DS+%7C+Web+Dev+Learner;Always+building+something+new+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hi+I'm+Keerthana!" />
 </p>
 
 ## 🌐 Socials:
