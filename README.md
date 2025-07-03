@@ -3,10 +3,16 @@
 </p>
 
 ---
+<!-- Snake Game Repo View -->
 
-## 🧠 About Me
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-Hey there!  I'm **Keerthana AR**
+
+## 🐝 About Me
+
+Hey there!  I'm  **AR Keerthana**
 
 ComputerScience Engineering Student @ VIT Chennai 
 
@@ -40,13 +46,13 @@ ComputerScience Engineering Student @ VIT Chennai
 <div align="center">
 
 <!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=keerthana777z&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=keerthana777z&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="40%" />
 
 <!-- Streak Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=keerthana777z&theme=tokyonight&hide_border=false" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=keerthana777z&theme=tokyonight&hide_border=false" width="44%" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana777z&theme=tokyonight&hide_border=false&layout=compact" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana777z&theme=tokyonight&hide_border=false&layout=compact" width="30%" />
 
 </div>
 
