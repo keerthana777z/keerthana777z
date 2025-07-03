@@ -53,6 +53,7 @@ ComputerScience Engineering Student @ VIT Chennai
 
 ## 👀 Visitors Count
 
-![Profile Views](https://visitcount.itsvg.in/api?id=keerthana777z&color=10B981&icon=5)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=keerthana777z.keerthana777z)
+
 
 
