@@ -31,7 +31,7 @@
 
 ## 🍓 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=keerthana777z&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=keerthana777z&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=keerthana777z&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana777z&theme=radical&hide_border=false&layout=compact)
 
 ---
