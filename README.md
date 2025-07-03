@@ -3,29 +3,30 @@
 </p>
 
 ---
-<!-- Snake Game Repo View -->
 
+<!-- Snake Game Animation -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+---
 
+<!-- 🐝 About Me Section in HTML -->
 
-## 🐝 About Me
+<h2>🐝 About Me</h2>
 
-```js
-// 💻 Keerthana's Code Space
+<div style="background-color:#0F172A; padding: 1.5rem; border-radius: 10px; color: #E5E7EB; font-family: 'Fira Code', monospace;">
 
-const Keerthana = {
-  name: "AR Keerthana",
-  role: "CS Engineering Student @ VIT Chennai",
-  passions: ["AI & ML ", "Data Science ", "Web Development ", "Data Analytics "],
-  vibe: "Build 💡 | Debug 🔍 | Deploy 🚀 | Repeat 🔁",
-  quote: "Code is my playground, and logic is my game.🎯"
-};
+  <p><strong style="color: #10B981;">Hello World !... I'm  </strong> AR Keerthana</p>
+  <p><strong style="color: #10B981;"></strong> ComputerScience Engineering Student @ VIT Chennai</p>
+  <p><strong style="color: #10B981;">Interest:</strong> AI & ML 🤖, Data Science 📊, Web Development 🌐, Data Analytics 📈</p>
+  <p><strong style="color: #10B981;">Vibe:</strong> Build 💡 | Debug 🔍 | Deploy 🚀 | Repeat 🔁</p>
+  <p><strong style="color: #10B981;"></strong> <em>"Code is my playground, and logic is my game. 🎯"</em></p>
+  <br>
 
-console.log("Welcome to my README! Let’s build something cool together ✨");
-```
+  <code style="color:#A78BFA;">console</code><code>.log(</code><code style="color:#10B981;">"Welcome to my README! Let’s build something cool together ✨"</code><code>)</code>
+
+</div>
 
 
 
