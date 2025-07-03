@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=BF6DF2&center=true&vCenter=true&width=500&lines= Hi, I'm Keerthana !" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=BF6DF2&center=true&vCenter=true&width=300&lines=Keerthana+S+💜" />
 </p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23D36AC2.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kee_z_) 
