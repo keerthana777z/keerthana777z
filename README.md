@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Hi,+I'm+Keerthana+⚡" />
 </p>
 
+
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
