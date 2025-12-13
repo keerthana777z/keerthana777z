@@ -9,6 +9,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </p>
 
+
 <hr style="border: none; height: 1px; background: linear-gradient(to right, #0F172A, #10B981, #0F172A);" />
 
 <!-- About Me -->
