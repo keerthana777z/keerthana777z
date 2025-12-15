@@ -21,8 +21,7 @@
   <p><strong style="color: #10B981;">Hello World !... I'm</strong> <b>AR Keerthana</b></p>
   <p>👩‍💻 <strong style="color: #10B981;">Student @ VIT Chennai</strong> (CSE)</p>
   <p>🎯 <strong style="color: #10B981;">Interest:</strong> AI & ML 🤖 | Data Science 📊 | Web Development 🌐 | Data Analytics 📈</p>
-  <p>🔄 <strong style="color: #10B981;">Vibe:</strong> Build 💡 | Debug 🔍 | Deploy 🚀 | Repeat 🔁</p>
-  <p><em style="color:#FBBF24;">"Code is my playground, and logic is my game. 🎯"</em></p>
+  
 
   <br>
 
